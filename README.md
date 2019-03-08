@@ -18,7 +18,6 @@ There are many conditions that affect the outcome of a school choosing decision 
 | :------------ |:---------------:| :-----| :-----|
 | Zhang Haihan | A0150701X| E0015787@u.nus.edu |
 
-
 ---
 ## SECTION 4 : USER GUIDE
 
