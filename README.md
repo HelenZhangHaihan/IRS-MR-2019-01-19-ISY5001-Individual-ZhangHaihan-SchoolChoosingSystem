@@ -15,8 +15,10 @@ There are many conditions that affect the outcome of a school choosing decision 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
  Official Full Name : Zhang Haihan 
+ 
  Student ID : A0150701X
- Email (Optional): E0015787@u.nus.edu 
+ 
+ Email (Optional) : E0015787@u.nus.edu 
 
 ---
 ## SECTION 4 : USER GUIDE
